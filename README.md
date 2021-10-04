@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbalzerfds
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning lots of stuff
+- 🌱 I’m currently learning how Git works
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
